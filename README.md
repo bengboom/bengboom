@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Today's English Words Learning](https://stat.leftover.cn/bbdc?userId=290244355&nickname=bengboom)](https://github.com/left0ver/github-bbdc-stat)
+[![Today's English Words Learning](https://stat.leftover.cn/bbdc?userId=15440189&nickname=bengboom)](https://github.com/left0ver/github-bbdc-stat)
 
 
 <!--
