@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-[![Today's English Words Learning](https://stat.leftover.cn/bbdc?userId=15440189&nickname=bengboom)](https://github.com/left0ver/github-bbdc-stat)
-
-
-<!--
 **bengboom/bengboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+  
